@@ -1,0 +1,7 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: ssp5zone
+MIDlet-Jar-URL: ChatterTest1.jar
+MicroEdition-Configuration: CLDC-1.0
+MIDlet-1: StartMidlet,/icons/icon2.png,com.zone5.ChatBox.StartMidlet
+MicroEdition-Profile: MIDP-2.1
+MIDlet-Name: GreyBox
