@@ -2,6 +2,8 @@
 
 A bunch of chatbots written in J2ME for Symbian devices. 
 
+![](/docs/demo.gif)
+
 **Why?** Because Micro Edition basically uses the most primitive version of Java and cut shorted version of JVM. You pretty much write everything yourself. Hence, I forgot the point I was trying to make.
 
 The app has 3 different bots,
